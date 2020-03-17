@@ -7,4 +7,4 @@ You need to put below files in this directory
   - sample_submission.csv
 - pytorch-pretrained-models
   - resnet50-19c8e357.pth
-  - densenet121.pth
+  - efficientnet-b2-8bb594d6.pth
